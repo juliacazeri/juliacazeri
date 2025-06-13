@@ -1,4 +1,4 @@
-## *Julia Cazeri* 💗
+## *Julia Cazeri* 
 **`Desenvolvedora Iniciante`**
 
 *Me chamo Julia e estou no último ano do curso de Análise e Desenvolvimento de Sistemas. Estou começando minha trajetória na área de tecnologia, com foco em aprendizado contínuo, desenvolvimento de projetos e crescimento profissional. No meu GitHub, compartilho alguns dos trabalhos que fazem parte da minha evolução.*
